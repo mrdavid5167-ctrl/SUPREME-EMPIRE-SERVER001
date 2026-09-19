@@ -1,58 +1,58 @@
 [
   {
-    "id": "1",
+    "id": "faction_01",
     "name": "Faction 1"
   },
   {
-    "id": "2",
+    "id": "faction_02",
     "name": "Faction 2"
   },
   {
-    "id": "3",
+    "id": "faction_03",
     "name": "Faction 3"
   },
   {
-    "id": "4",
+    "id": "faction_04",
     "name": "Faction 4"
   },
   {
-    "id": "5",
+    "id": "faction_05",
     "name": "Faction 5"
   },
   {
-    "id": "6",
+    "id": "faction_06",
     "name": "Faction 6"
   },
   {
-    "id": "7",
+    "id": "faction_07",
     "name": "Faction 7"
   },
   {
-    "id": "8",
+    "id": "faction_08",
     "name": "Faction 8"
   },
   {
-    "id": "9",
+    "id": "faction_09",
     "name": "Faction 9"
   },
   {
-    "id": "10",
+    "id": "faction_10",
     "name": "Faction 10"
   },
   {
-    "id": "11",
+    "id": "faction_11",
     "name": "Faction 11"
   },
   {
-    "id": "12",
+    "id": "faction_12",
     "name": "Faction 12"
   },
   {
-    "id": "13",
+    "id": "faction_13",
     "name": "Faction 13"
   },
   {
-    "id": "14",
+    "id": "faction_14",
     "name": "Faction 14"
   }
 ]
