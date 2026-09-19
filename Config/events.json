@@ -11,11 +11,11 @@
       },
       "second": {
         "money": 10000,
-        "seCoins": 60
+        "seCoins": 51
       },
       "third": {
         "money": 5000,
-        "seCoins": 30
+        "seCoins": 33
       }
     }
   },
@@ -31,11 +31,11 @@
       },
       "second": {
         "money": 8000,
-        "seCoins": 50
+        "seCoins": 41
       },
       "third": {
         "money": 4000,
-        "seCoins": 25
+        "seCoins": 26
       }
     }
   },
@@ -50,12 +50,12 @@
         "seCoins": 70
       },
       "second": {
-        "money": 7000,
-        "seCoins": 45
+        "money": 6666,
+        "seCoins": 36
       },
       "third": {
-        "money": 3500,
-        "seCoins": 20
+        "money": 3333,
+        "seCoins": 23
       }
     }
   },
@@ -70,12 +70,12 @@
         "seCoins": 70
       },
       "second": {
-        "money": 7000,
-        "seCoins": 45
+        "money": 6666,
+        "seCoins": 36
       },
       "third": {
-        "money": 3500,
-        "seCoins": 20
+        "money": 3333,
+        "seCoins": 23
       }
     }
   }
