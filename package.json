@@ -1,8 +1,7 @@
 {
   "name": "supreme-empire-server",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "Supreme Empire roleplay server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
